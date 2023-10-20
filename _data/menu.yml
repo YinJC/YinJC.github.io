@@ -2,12 +2,16 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: 一些链接
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: E-mail
+        url: mailto:yinjc@cjlu.edu.cn
+      - title: 我的B站主页
+        url: https://space.bilibili.com/119141186
+      - title: 我的GitHub主页
+        url: https://github.com/YinJC
+      - title: 我的公众号主页
+        url: https://mp.weixin.qq.com/cgi-bin/home?t=home/index&token=1332527085&lang=zh_CN
 
   - title: all posts
     post_list:
